@@ -1,3 +1,6 @@
+/* Escriba un programa que calcule el perímetro de una circunferencia. NOTA  perimetro  =  2  *  PI  *  r).  Se  recomienda  definir  PI  como  una  constante
+usando la directiva define. */
+
 #include <stdio.h>
 #define PI 3.14159
 

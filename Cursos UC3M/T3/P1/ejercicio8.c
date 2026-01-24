@@ -1,3 +1,6 @@
+/* Escriba  un  programa  que  pida  un  tiempo  en  segundos  y  lo  muestre  convertido  a
+minutos y segundos. */
+
 #include <stdio.h>
 
 int main(int argc, char const *argv[])

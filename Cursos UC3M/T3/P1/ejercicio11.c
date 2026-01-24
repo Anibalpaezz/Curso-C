@@ -1,3 +1,6 @@
+/* Escriba un programa en  C que convierta  euros a  dolares (1  euro  = 1.286  dolares)  y  a
+libras esterlinas (1 euro = 0,865 libras). Imprima los resultados por pantalla. */
+
 #include <stdio.h>
 
 int main(int argc, char const *argv[])
