@@ -1,3 +1,5 @@
+/* Escriba un programa que pida una temperatura en grados Farenheit y la pase a Celsius.  NOTA: celsius = (farenheit -32)*5/9 */
+
 #include <stdio.h>
 
 int main(int argc, char const *argv[])

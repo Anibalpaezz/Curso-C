@@ -1,3 +1,6 @@
+/* Escriba  un  programa  que  lea  tres  enteros  (a,  b,  c)  y  muestre  por  pantalla  un  1  si  los
+valores introducidos siguen un orden creciente (a>b>c) y 0 en caso contrario. */
+
 #include <stdio.h>
 
 int main(int argc, char const *argv[])
